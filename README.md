@@ -28,7 +28,7 @@ An interactive Streamlit dashboard for exploring Adidas US sales data.
    streamlit run app.py
    ```
 
-6. Open the local URL Streamlit prints, usually http://localhost:8501.
+6. Open the local URL Streamlit prints, usually https://adidas-sales-dashboard1.streamlit.app/.
 
 The `adidas_cleaned.csv` file is included so the dashboard can run without uploading the original Excel file again.
 
